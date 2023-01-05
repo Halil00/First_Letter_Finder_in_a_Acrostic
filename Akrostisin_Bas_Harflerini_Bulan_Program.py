@@ -15,24 +15,7 @@ class Dosya2():
             print(self.satirlar_liste)
 
             for i in self.satirlar_liste:
-                print(i[0])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                print(i[0]
             
 
 dosya2 = Dosya2()

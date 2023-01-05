@@ -2,7 +2,7 @@ class Dosya2():
 
     def __init__(self):
 
-        with open("şiir.txt", "r", encoding="utf-8") as file:
+        with open("example_acrostic.txt", "r", encoding="utf-8") as file:
 
             satirlar = file.readlines()
 

@@ -6,7 +6,7 @@ class Dosya2():
 
             satirlar = file.readlines()
 
-            #Bas harfler işime yarar diye koydum fakat ihtiyacım olmadı. 2. bir seçenek olarak lineları okuyup ardından baş harflerini bulupta bastırılabilir.
+            
             bas_harfler = file.readline()
             self.satirlar_liste = list()
 
